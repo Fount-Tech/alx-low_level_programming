@@ -8,7 +8,7 @@
 int main(void)
 {	char c;
 	int i;
-	int i2;
+	long int i2;
 	long long l2;
 	float f;
 
