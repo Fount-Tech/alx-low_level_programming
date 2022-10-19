@@ -1,4 +1,4 @@
-#include "mainn.h"
+#include "main.h"
 /**
  * main - Write a fuction that prints the alphabet, in lowercase,
  *followed by a new line.
