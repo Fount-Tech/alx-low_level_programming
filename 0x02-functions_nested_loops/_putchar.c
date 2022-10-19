@@ -9,5 +9,6 @@
  */
 int _putchar(char c)
 {
+	print_alphabet_x10();
 	return (write(1, &c, 1));
 }
