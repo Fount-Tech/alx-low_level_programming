@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
-*  main
-*  reset_to_98 Write a function that takes a pointer to an int as,
-*  parameter and updates the value it points to to 98
-*  reset_to_98
-*  return: n
+*reset_to_98 A function that takes a pointer to an in as parameter
+*and update the value it points to 98
+*@n: return n;
+*main - a function
 */
 	void reset_to_98(int *n)
 {
